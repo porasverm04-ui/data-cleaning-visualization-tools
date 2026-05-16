@@ -27,7 +27,7 @@ st.markdown("""
 3. Cleaned data will be saved automatically  
 4. Visit:
    - 📈 Correlation page → to see relationships  
-   - 📊 Histogram page → to see distributions  
+   - 📊 visual page → to see distributions  
 """)
 
 st.divider()
